@@ -1,0 +1,24 @@
+#map {
+    height: 500px;
+}
+
+div#post {
+    background-color: #FFF;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+p.username {
+    padding: 5px;
+    color: #FD616C;
+    font-weight: bold;
+}
+
+p.body, p.time {
+    padding: 5px;
+}
+
+span.timeago {
+    text-transform: capitalize;
+    font-size: 15px;
+}
