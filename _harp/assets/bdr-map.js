@@ -7,7 +7,7 @@ $(document).ready(function() {
         attribution: "Map data © <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors"})
         );
     var markers = [];
-    $.getJSON("http://birdr.ruxim.co/unAuFeed.php", function(data) {
+    $.getJSON("https://birdr-zaaach.rhcloud.com/unAuFeed.php", function(data) {
         if (data.status == 200) {
             for (var i = 0; i < data.posts.length; i++) {
                 var post = data.posts[i];
