@@ -1,0 +1,23 @@
+body {
+    background-color: #FFF;
+}
+
+.dy {
+    color: #84ECAF;
+}
+
+.post {
+    border-color: #FFF;
+}
+
+a {
+    text-decoration: underline !important;
+}
+
+.doc {
+  font-size: 16px;
+}
+
+.doc p {
+  margin: 5px 0px;
+}

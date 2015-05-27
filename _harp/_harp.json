@@ -1,0 +1,7 @@
+{
+    "globals": {
+        "title": "Birdr",
+        "description": "A local feed of bird sightings using interactive maps to pinpoint the exact locations. Powered by <a class=\"u\" href=\"http://ruxim.co\" target=\"_blank\">Ruxim</a>.",
+        "meta_description": "A local feed of bird sightings using interactive maps to pinpoint the exact locations. Powered by Ruxim."
+    }
+}
