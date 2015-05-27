@@ -2,7 +2,7 @@ $(document).ready(function() {
     map = new L.Map('map');
     map.setView(new L.LatLng(40.7127, -74.0059), 4);
     map.addLayer(new L.TileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        minZoom: 4,
+        minZoom: 1,
         maxZoom: 19,
         attribution: "Map data © <a href=\"https://openstreetmap.org\">OpenStreetMap</a> contributors"})
         );
